@@ -21,4 +21,4 @@ To use **MediBot** locally, follow these steps:
 
    ```bash
    
-  https://github.com/Vinaykumar-jangir/Medic-chatbot,git
+  https://github.com/Vinaykumar-jangir/Medic-chatbot
